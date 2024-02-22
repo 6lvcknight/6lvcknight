@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=WELCOME+2+MY+STRIP!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=WELCOME+TO+MY+PAGE!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Heyyy, I'm Folu
 
 [![Website](https://img.shields.io/badge/foluwaderibigbe.com-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://foluwaderibigbe.com/)
