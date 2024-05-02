@@ -13,6 +13,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=6lvcknight&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6lvcknight&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=-Airplane-Price-Prediction-Model&theme=github_dark)](https://github.com/6lvcknight/-Airplane-Price-Prediction-Model)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Changing-Weather-Extremes&theme=github_dark)](https://github.com/6lvcknight/Changing-Weather-Extremes)
