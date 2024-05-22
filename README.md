@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Changing-Weather-Extremes&theme=github_dark)](https://github.com/6lvcknight/Changing-Weather-Extremes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Sentiment-Analysis-project-for-poetry&theme=github_dark)](https://github.com/6lvcknight/Sentiment-Analysis-project-for-poetry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Sentiment-Analysis-of-IMDB-Reviews&theme=github_dark)](https://github.com/6lvcknight/Sentiment-Analysis-of-IMDB-Reviews)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Portfolio&theme=github_dark)](https://github.com/6lvcknight/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=foluwaderibigbe&theme=github_dark)](https://github.com/6lvcknight/foluwaderibigbe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=CalendarCPP&theme=github_dark)](https://github.com/6lvcknight/CalendarCPP)
 
 
