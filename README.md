@@ -6,7 +6,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=www.kaggle.com/foluaderibigbe)](https://www.kaggle.com/foluaderibigbe)
 
 :school: Currently studying Computer Science at Ontario Tech University, ON</br>
-:musical_note: I have a passion for music</br>
 :basketball: :weight_lifting_man: I love playing basketball and gyming</br>
 :mailbox: How to reach me: <a href="mailto:foluwaderibigbe@gmail.com">foluwaderibigbe@gmail.com</a>
 
