@@ -12,15 +12,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=6lvcknight&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6lvcknight&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=-Airplane-Price-Prediction-Model&theme=github_dark)](https://github.com/6lvcknight/-Airplane-Price-Prediction-Model)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Changing-Weather-Extremes&theme=github_dark)](https://github.com/6lvcknight/Changing-Weather-Extremes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Sentiment-Analysis-project-for-poetry&theme=github_dark)](https://github.com/6lvcknight/Sentiment-Analysis-project-for-poetry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=Sentiment-Analysis-of-IMDB-Reviews&theme=github_dark)](https://github.com/6lvcknight/Sentiment-Analysis-of-IMDB-Reviews)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=foluwaderibigbe&theme=github_dark)](https://github.com/6lvcknight/foluwaderibigbe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6lvcknight&repo=CalendarCPP&theme=github_dark)](https://github.com/6lvcknight/CalendarCPP)
-
-
 ## Languages and Tools:
 <div>
   <img width=175px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
